@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d9764a3-e497-4e69-afce-e08854731033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PlindromicSubString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PlindromicSubString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
+    <configuration name="PalindromicSubString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlindromicSubString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PalindromicSubString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PlindromicSubString" />
+        <item itemvalue="Python.PalindromicSubString" />
       </list>
     </recent_temporary>
   </component>
